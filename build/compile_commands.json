@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/WSzYSTKO/Studia/Cpp/lab-1-Krzysio13/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zal.dir\\test.cpp.obj -c C:\\Users\\User\\Desktop\\WSzYSTKO\\Studia\\Cpp\\lab-1-Krzysio13\\test.cpp",
+  "file": "C:/Users/User/Desktop/WSzYSTKO/Studia/Cpp/lab-1-Krzysio13/test.cpp",
+  "output": "CMakeFiles/zal.dir/test.cpp.obj"
+}
+]
